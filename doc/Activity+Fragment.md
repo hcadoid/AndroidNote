@@ -1,6 +1,6 @@
 ## Activity
 #### 一、生命周期
-[生命周期图](https://github.com/hcadoid/AndroidNote/blob/master/img/activitylife.png)
+![](https://github.com/hcadoid/AndroidNote/blob/master/img/activitylife.png)
 
 
 #### 二、任务栈
